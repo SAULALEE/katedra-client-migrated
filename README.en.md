@@ -35,7 +35,7 @@ flowchart LR
 
 Unidirectional flow, zero direct Axios/fetch calls inside components — every request goes
 through a Hook and a Service file. Details in
-[katedra-server/docs/2_ARCHITECTURE_AND_TECH_STACK.md](https://github.com/SAULALEE/katedra-server/blob/main/docs/2_ARCHITECTURE_AND_TECH_STACK.md).
+[katedra-server/docs/2_ARCHITECTURE_AND_TECH_STACK.en.md](https://github.com/SAULALEE/katedra-server/blob/main/docs/2_ARCHITECTURE_AND_TECH_STACK.en.md).
 
 ---
 
@@ -122,5 +122,5 @@ src/app/
 
 ## Roadmap
 
-See [katedra-server/docs/3_STATUS_AND_ROADMAP.md](https://github.com/SAULALEE/katedra-server/blob/main/docs/3_STATUS_AND_ROADMAP.md)
+See [katedra-server/docs/3_STATUS_AND_ROADMAP.en.md](https://github.com/SAULALEE/katedra-server/blob/main/docs/3_STATUS_AND_ROADMAP.en.md)
 for what's shipped and what's next across both repos.
